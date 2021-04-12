@@ -1,8 +1,9 @@
 html, body {
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
 h1 {
+  display: flex;
   font-family: Verdana;
   font-weight: normal;
   color: white;
