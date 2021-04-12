@@ -6,6 +6,7 @@ h1 {
   display: flex;
   font-family: Verdana;
   font-weight: normal;
+  font-size: 50px;
   color: white;
   align-content: center;
 }
