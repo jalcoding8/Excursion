@@ -2,6 +2,12 @@ html, body {
   font-family: Verdana, sans-serif;
 }
 
+body {
+  margin: 0px; 
+  background: rgb(14, 14, 14); 
+  height: 100%;
+}
+
 h1 {
 
   font-family: Verdana, sans-serif;
