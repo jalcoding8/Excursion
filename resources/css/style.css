@@ -21,3 +21,8 @@ p {
   text-align: center;
   text-decoration: underline;
 }
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
