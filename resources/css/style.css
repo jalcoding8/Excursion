@@ -8,7 +8,7 @@ body {
   height: 100%;
 }
 
-h1 {
+.page-title {
 
   font-family: Verdana, sans-serif;
   font-weight: normal;
