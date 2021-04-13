@@ -61,6 +61,10 @@ h2 {
 }
 
 @media only screen and (max-width: 960px) {
+  .video-section {
+    height: 540px;
+  }
+  
   .camp_image {
     width: 80%;
   }
