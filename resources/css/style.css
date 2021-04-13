@@ -55,3 +55,15 @@ h2 {
     font-size: 21px;
 }
 
+@media only screen and (max-width: 900px) {
+  .camp_image {
+    width: 80%;
+  }
+  
+  .phone_icon {
+    width: 2.5rem;
+  }
+  
+  
+}
+
