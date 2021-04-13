@@ -60,7 +60,7 @@ h2 {
     font-size: 21px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 960px) {
   .camp_image {
     width: 80%;
   }
