@@ -26,6 +26,10 @@ p {
   text-align: center;
 }
 
+video-container {
+  text-align: center;
+}
+
 .nowhere {
   color: Aquamarine;
   font-size: 16px;
