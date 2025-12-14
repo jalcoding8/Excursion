@@ -6,7 +6,7 @@
 
 ## General Information
    *  This project uses html5, css3, images, a video and markdown
-      to build a program to generate a random message to user.
+      to display a cell phone with a moving graphic.
    *  There are nested files for html & css, and a READEME.md
    *  The video file contains an mp4. 
    *  The README.md utilized the Markdown language syntax
@@ -14,11 +14,11 @@
    
 
 ## Technologies
-This Project is created with/by:
-   *  html5
+   * This Project is created with/by:
+   *  HTML5
    *  Utilizing Markdown language for the README.md content
    *  Visual Studio Code
-   *  Using git commands in bash shell terminal and GitHub
-   *  css2
+   *  Using git commands in bash shell (zsh) terminal and GitHub
+   *  CSS3
    *  Stack Overflow
    *  Google
