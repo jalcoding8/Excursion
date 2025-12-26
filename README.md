@@ -20,5 +20,7 @@
    *  Visual Studio Code
    *  Using git commands in bash shell (zsh) terminal and GitHub
    *  CSS3
-   *  Stack Overflow
+   *  Gemini
    *  Google
+
+   
