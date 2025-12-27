@@ -3,6 +3,7 @@
    *  resources (nested)
    *  LICENSE
    *  gitignore
+   *  index.html
 
 ## General Information
    *  This project uses html5, css3, images, a video and markdown
@@ -16,10 +17,11 @@
 ## Technologies
    * This Project is created with/by:
    *  HTML5
+   *  CSS3
    *  Utilizing Markdown language for the README.md content
    *  Visual Studio Code
    *  Using git commands in bash shell (zsh) terminal and GitHub
-   *  CSS3
+   *  favicon generator
    *  Gemini
    *  Google
 
